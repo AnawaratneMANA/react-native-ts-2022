@@ -10,6 +10,8 @@ const App : FC = () => {
     )
 }
 
+export default App;
+
 // Styles configuration.
 const styles = StyleSheet.create({
     container: {
